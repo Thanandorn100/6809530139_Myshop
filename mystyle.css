@@ -4,3 +4,25 @@
     text-align: center;
     font-size: 28px;
 }
+.video
+{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.details
+{
+    font-family: Mali;
+    font-size: 14px;
+  padding: 2px 4px;
+}
+.head{
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 2px 4px;
+}
