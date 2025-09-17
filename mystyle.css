@@ -16,7 +16,7 @@
 {
     font-family: Mali;
     font-size: 14px;
-  padding: 2px 4px;
+  padding: 20px 4px;
 }
 .head{
     font-weight: bold;
@@ -51,9 +51,16 @@
 a{
     color:#fff;
     text-decoration: none;
+    font-family: Mali;
 }
 li{
-    margin:15px
-    
+    margin:15px;
 }
+}
+.navbar
+{
+    background: rgba(255, 255, 255, 0,95);
+    backdrop-filter: blur(10px);
+    padding: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0,0, 1);
 }
