@@ -79,10 +79,23 @@ li{
 }
 body
 {
-    background-image: url(Background.png);
+    background-image: url(resources/Background.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
 }
 
+.footer
+{
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 50px;
+    font-family: Mali;
+   bottom: 0;
+   left: 0;
+   position: fixed;
+   width: 100%;
+}
