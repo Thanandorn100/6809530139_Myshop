@@ -17,6 +17,10 @@
     font-family: Mali;
     font-size: 14px;
   padding: 20px 4px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 24px;
 }
 .head{
     font-weight: bold;
@@ -44,7 +48,7 @@
 .menu
 {
     display: flex;
-    padding: 12px;
+    padding: 15px;
     list-style: none;
     justify-content: center;
     gap: 50px;
@@ -52,9 +56,11 @@ a{
     color:#fff;
     text-decoration: none;
     font-family: Mali;
+    font-size: 20px ;
+
 }
 li{
-    margin:15px;
+    margin-left: 50px
 }
 }
 .navbar
